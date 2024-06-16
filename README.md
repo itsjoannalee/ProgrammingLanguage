@@ -35,8 +35,6 @@ The coursework is designed to teach the application of programming knowledge in 
 
 ## Setup
 
-Each folder in this repository corresponds to the labs and assignments as outlined in the respective course syllabus. Source files are included in each sub-directory, which can be compiled and run using any standard Java development environment.
+Source files are included in each sub-directory, which can be compiled and run using any standard Java development environment.
 
 ---
-
-This README template provides a concise yet comprehensive overview of your coursework, aligning it with the academic framework of your programming courses. Adjustments can be made to better fit the specifics of your projects or any additional personal commentary you might wish to include about the work completed.
