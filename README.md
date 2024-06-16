@@ -104,7 +104,7 @@ This repository contains part my coursework, including homework and labs, for Pr
 - **Technologies Used**: interfaces, polymorphism, encapsulation.
 
 
-## Educational Objectives
+## Objectives
 
 The coursework is designed to teach the application of programming knowledge in solving real-world problems using Java. It emphasizes:
 - Object-Oriented Programming: Mastery of classes, inheritance, interfaces, and polymorphism.
