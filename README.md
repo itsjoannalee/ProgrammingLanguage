@@ -10,6 +10,8 @@ This repository contains part my coursework, including homework and labs, for Pr
 - **HW**: Homework assignments.
 - **Lab**: Laboratory exercises.
 
+The folder includes introduction (XXX.pdf) and source files.
+
 ## Coursework Overview
 
 ### Bonus Assignments
