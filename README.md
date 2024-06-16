@@ -1,5 +1,3 @@
-# hsinlee
-
 ---
 
 # Programming Language Coursework
