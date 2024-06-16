@@ -12,7 +12,7 @@ This repository contains part my coursework, including homework and labs, for Pr
 
 ## Coursework Overview
 
-## Bonus Assignments
+### Bonus Assignments
 
 #### Bonus 1: Circle Operations
 - **Objective**: Implement a `Circle` class that supports various operations including calculating area and circumference, and determining spatial relationships with points and other circles.
@@ -26,7 +26,7 @@ This repository contains part my coursework, including homework and labs, for Pr
 - **Objective**: Create a hierarchy of shape objects (Square, Circle, Triangle) that inherit from a `Shape` abstract class, each implementing specific methods to compute area and perimeter.
 - **Technologies Used**: abstract classes, method overriding, and polymorphism.
 
-## Lab Assignments
+### Lab Assignments
 
 #### Lab 2: Basic Java Operations
 - **Objective**: Execute basic arithmetic operations and manipulate strings.
@@ -64,7 +64,7 @@ This repository contains part my coursework, including homework and labs, for Pr
 - **Objective**: Calculate the area of land parcels using different geometric shapes.
 - **Technologies Used**: Java, interfaces, abstract classes.
 
-### Lab 12: Revenue Calculation System
+#### Lab 12: Revenue Calculation System
 - **Objective**: Develop a system to calculate revenues for different business models.
 - **Technologies Used**: Java, interfaces, advanced OOP.
 
@@ -73,7 +73,7 @@ This repository contains part my coursework, including homework and labs, for Pr
 - **Technologies Used**: Java, interfaces, GUI programming, polymorphism.
 
 
-## Homework Assignments
+### Homework Assignments
 
 #### HW1: Basic Java Concepts
 - **Objective**: Implement basic programming concepts through exercises such as area calculations and a cashier system simulation.
