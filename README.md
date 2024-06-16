@@ -14,6 +14,20 @@ This repository contains part my coursework, including homework and labs, for Pr
 
 ## Coursework Overview
 
+#### Bonus Assignments
+
+- **Bonus 1**: Circle Operations
+- **Objective**: Implement a `Circle` class that supports various operations including calculating area and circumference, and determining spatial relationships with points and other circles.
+- **Technologies Used**: object-oriented programming principles.
+
+- **Bonus 4**: Question and ChoiceQuestion Classes
+- **Objective**: Develop a quiz system where questions can be either simple or multiple-choice, leveraging object-oriented design principles like inheritance and polymorphism.
+- **Technologies Used**: inheritance, polymorphism.
+
+- **Bonus 5**: Shape Hierarchy
+- **Objective**: Create a hierarchy of shape objects (Square, Circle, Triangle) that inherit from a `Shape` abstract class, each implementing specific methods to compute area and perimeter.
+- **Technologies Used**: abstract classes, method overriding, and polymorphism.
+
 #### Labs
 - **Lab 1**: Introduction to Java and basic setup.
 - **Lab 2 - Lab 5**: Fundamental programming concepts including types, variables, constants, operators, and string handling.
