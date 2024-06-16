@@ -14,31 +14,16 @@ This repository contains all my coursework, including homework and labs, for Pro
 
 ## Coursework Overview
 
-### Programming Language I (Fall 2020)
-
 #### Labs
 - **Lab 1**: Introduction to Java and basic setup.
 - **Lab 2 - Lab 5**: Fundamental programming concepts including types, variables, constants, operators, and string handling.
 - **Lab 6 - Lab 8**: Control structures, including loops and conditionals.
 - **Lab 9**: Introduction to arrays and array lists.
-- **Lab 12**: Object-oriented programming basics.
-- **Lab 13**: Advanced object-oriented concepts, including interfaces and polymorphism.
-- **Lab 14 - Lab 15**: Inheritance in Java.
+- **Lab 12 - Lab 13**:  Advanced object-oriented concepts, Inheritance and interfaces, polymorphism.
 
 #### Assignments
-- **Assignment 1 - Assignment 6**: These assignments covered everything from basic Java programming, control structures, arrays, to complex object-oriented programming including inheritance and polymorphism.
+- **Assignment 1 - Assignment 8**: These assignments covered everything from basic Java programming, control structures, arrays, to complex object-oriented programming including inheritance and polymorphism.
 
-### Programming Language II (Spring 2021)
-
-#### Labs
-- **Lab 12 - Lab 14**: Inheritance and interfaces, focusing on deepening understanding of polymorphism.
-- **Lab 15 - Lab 17**: Graphical User Interfaces using JavaFX.
-- **Lab 18**: Exception handling and file I/O operations.
-- **Lab 19 - Lab 20**: Relational databases and JDBC.
-- **Lab 21**: Introduction to data structures.
-
-#### Assignments
-- **Assignment 1 - Assignment 4**: These tasks challenged my understanding of Java's advanced features including GUI development, file handling, database operations, and the use of data structures in real-world applications.
 
 ## Educational Objectives
 
