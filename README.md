@@ -4,7 +4,7 @@
 
 # Programming Language Coursework
 
-This repository contains all my coursework, including homework and labs, for Programming Language I and II. Each piece of work is aligned with the course syllabus topics to demonstrate the skills and concepts learned throughout the course.
+This repository contains part my coursework, including homework and labs, for Programming Language I and II. 
 
 ## Folder Structure
 
