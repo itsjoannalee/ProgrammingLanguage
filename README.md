@@ -14,55 +14,55 @@ This repository contains part my coursework, including homework and labs, for Pr
 
 ## Coursework Overview
 
-#### Bonus Assignments
+## Bonus Assignments
 
-- **Bonus 1**: Circle Operations
+#### Bonus 1: Circle Operations
 - **Objective**: Implement a `Circle` class that supports various operations including calculating area and circumference, and determining spatial relationships with points and other circles.
 - **Technologies Used**: object-oriented programming principles.
 
-- **Bonus 4**: Question and ChoiceQuestion Classes
+#### Bonus 4: Question and ChoiceQuestion Classes
 - **Objective**: Develop a quiz system where questions can be either simple or multiple-choice, leveraging object-oriented design principles like inheritance and polymorphism.
 - **Technologies Used**: inheritance, polymorphism.
 
-- **Bonus 5**: Shape Hierarchy
+#### Bonus 5: Shape Hierarchy
 - **Objective**: Create a hierarchy of shape objects (Square, Circle, Triangle) that inherit from a `Shape` abstract class, each implementing specific methods to compute area and perimeter.
 - **Technologies Used**: abstract classes, method overriding, and polymorphism.
 
 ## Lab Assignments
 
-### Lab 2: Basic Java Operations
+#### Lab 2: Basic Java Operations
 - **Objective**: Execute basic arithmetic operations and manipulate strings.
 - **Technologies Used**: Java, basic input/output, arithmetic calculations.
 
-### Lab 3: Java Data Types and Operations
+#### Lab 3: Java Data Types and Operations
 - **Objective**: Explore Java primitive data types and their operations.
 - **Technologies Used**: Java, data type conversion, arithmetic operators.
 
-### Lab 4: Calculating BMI and Printing Patterns
+#### Lab 4: Calculating BMI and Printing Patterns
 - **Objective**: Implement a BMI calculator and print complex patterns.
 - **Technologies Used**: Java, loops, conditional statements.
 
-### Lab 5: Triangle Geometry Calculations
+#### Lab 5: Triangle Geometry Calculations
 - **Objective**: Calculate various geometric parameters of triangles.
 - **Technologies Used**: Java, geometry calculations, trigonometric functions.
 
-### Lab 6: Integer to English Name Conversion
+#### Lab 6: Integer to English Name Conversion
 - **Objective**: Convert integer values to their corresponding English names.
 - **Technologies Used**: Java, string manipulation, control logic.
 
-### Lab 7: Object-Oriented Programming
+#### Lab 7: Object-Oriented Programming
 - **Objective**: Practice object-oriented programming principles.
 - **Technologies Used**: Java, object-oriented design, arrays.
 
-### Lab 9: Company Salary Management System
+#### Lab 9: Company Salary Management System
 - **Objective**: Simulate a company's salary management for employees.
 - **Technologies Used**: Java, inheritance, polymorphism.
 
-### Lab 10: Banking System Simulation
+#### Lab 10: Banking System Simulation
 - **Objective**: Implement a simple banking system with different account types.
 - **Technologies Used**: Java, abstract classes, interfaces.
 
-### Lab 11: Land Area Calculation
+#### Lab 11: Land Area Calculation
 - **Objective**: Calculate the area of land parcels using different geometric shapes.
 - **Technologies Used**: Java, interfaces, abstract classes.
 
@@ -75,7 +75,7 @@ This repository contains part my coursework, including homework and labs, for Pr
 - **Technologies Used**: Java, interfaces, GUI programming, polymorphism.
 
 
-### Homework Assignments
+## Homework Assignments
 
 #### HW1: Basic Java Concepts
 - **Objective**: Implement basic programming concepts through exercises such as area calculations and a cashier system simulation.
